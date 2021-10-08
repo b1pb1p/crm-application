@@ -32,7 +32,7 @@
         "backgrid": "0.3.7",
         "bean": "1.0.6",
         "bootstrap": "4.3.1",
-        "core-js": "^3.6.5",
+        "core-js": "^3.17.3",
         "crypto-js": "3.1.7",
         "datepair.js": "0.4.*",
         "flotr2": "0.1.0",
