@@ -27,7 +27,7 @@
         "@oroinc/select2": "3.4.1",
         "Base64": "1.0.*",
         "asap": "2.0.6",
-        "autolinker": "1.6.*",
+        "autolinker": "3.16.1",
         "backbone": "1.4.*",
         "backgrid": "0.3.7",
         "bean": "1.0.6",
