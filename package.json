@@ -33,7 +33,7 @@
         "bean": "1.0.6",
         "bootstrap": "4.3.1",
         "core-js": "^3.6.5",
-        "crypto-js": "3.1.7",
+        "crypto-js": "4.2.0",
         "datepair.js": "0.4.*",
         "flotr2": "0.1.0",
         "focus-visible": "5.0.2",
