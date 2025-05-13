@@ -17,7 +17,7 @@
         "test-watch": "karma start karma.conf.js.dist --env=prod"
     },
     "dependencies": {
-        "@babel/runtime": "^7.10.4",
+        "@babel/runtime": "^7.26.10",
         "@oroinc/autobahnjs": "0.8.0",
         "@oroinc/backbone.pageable": "1.2.3",
         "@oroinc/jquery-ajax-queue": "0.0.1",
